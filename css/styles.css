@@ -115,6 +115,11 @@ height: 100%;
   margin: 0.9em 1.5em 0 1.5em;
 }
 
+button {
+  border: none;
+  background: none;
+}
+
 .inline-navs{
   display: inline-block;
   position: absolute;
